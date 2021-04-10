@@ -179,6 +179,7 @@ body {
 }
 
 .widget-sidebar {
+    display: none;
     background-color: violet;
     width: 25%;
     height: 250px;
